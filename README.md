@@ -3,7 +3,7 @@
 - 👀 I’m interested in full-stack web development, open-source projects, and learning new technologies.
 - 🌱 I’m currently learning advanced React, Express.js, and backend development with Node.js & MongoDB.
 - 💞️ I’m looking to collaborate on web applications, open-source projects, and anything JavaScript-related.
-- 📫 How to reach me: [pedapatisathwik@gmail.com](mailto:pedapatisathwik@gmail.com) | [LinkedIn](www.linkedin.com/in/sathwik-pedapati)
+- 📫 How to reach me: [pedapatisathwik@gmail.com](mailto:pedapatisathwik@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sathwik-pedapati/)
 - 😄 Pronouns: He/Him
 
 <!---
