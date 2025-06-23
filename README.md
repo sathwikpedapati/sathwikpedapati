@@ -12,8 +12,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sathwik-pedapati/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:pedapatisathwik@gmail.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&style=for-the-badge)](https://www.codechef.com/users/your-codechef-username)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge)](https://leetcode.com/your-leetcode-username)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&style=for-the-badge)](https://www.codechef.com/users/sathwi_02)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/Sathwi_pedapati/)
 
 ---
 
@@ -28,7 +28,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
 </div>
+
 
 ---
 
