@@ -1,7 +1,9 @@
-### 👋 Hi, I'm Sathwik Pedapati
+### 👋 Hi, I’m @sathwikpedapati
 
-💡 Passionate CSE undergraduate and full-stack web developer who loves building scalable web applications and solving real-world problems.  
-🚀 I enjoy contributing to open-source, learning new technologies, and collaborating on impactful projects.
+- 👀 I’m interested in full-stack web development, open-source projects, and learning new technologies.
+- 💞️ I’m looking to collaborate on web applications, open-source projects, and anything Web Applications Related
+- 📫 How to reach me: [sathwikpedapati02@gmail.com](mailto:sathwikpedapati02@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sathwik-pedapati/)
+- 😄 Pronouns: He/Him
 
 ---
 
@@ -14,60 +16,34 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/pedapati_sathwik/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white&style=for-the-badge)](https://drive.google.com/file/d/1VdVzA64TLVZro3dZ01DPsGfhNIagL-Vv/view?usp=sharing)
 
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,postgres,bootstrap,tailwind,git,github,c,cpp,java" />
-</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Languages & Tools
 
-| Project | Tech Stack | Live Demo | GitHub |
-|--------|------------|-----------|--------|
-| 🔹 News Media Full Stack App | MERN | 🔗 Live | 🔗 Repo |
-| 🔹 Real-Time Chat App | MERN + Socket.IO | 🔗 Live | 🔗 Repo |
-| 🔹 Event Management System | React + Node + MongoDB | 🔗 Live | 🔗 Repo |
-| 🔹 Typing Speed Test | React + Firebase | 🔗 Live | 🔗 Repo |
-
-> *(Update Live / GitHub URLs when you want — the table is already formatted.)*
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathwikpedapati&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikpedapati&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sathwikpedapati&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sathwikpedapati&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+</div>
 
 ---
 
-## 🐍 Fun Animation
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=sathwikpedapati&theme=tokyonight)
 
 ---
-
-![Visitor Count](https://komarev.com/ghpvc/?username=sathwikpedapati&style=for-the-badge)
-
----
-
-✨ _“Striving to build, learn, and contribute — one project at a time.”_
 
 <!---
 sathwikpedapati/sathwikpedapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 --->
