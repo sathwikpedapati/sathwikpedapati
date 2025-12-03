@@ -9,6 +9,7 @@
 
 ## 🔗 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](https://sathwik-pedapati.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sathwik-pedapati/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sathwikpedapati02@gmail.com)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&style=for-the-badge)](https://www.codechef.com/users/sathwi_5d0)
@@ -36,9 +37,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathwikpedapati&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sathwikpedapati&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikpedapati&layout=compact&theme=tokyonight)
 
 ---
 
