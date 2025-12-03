@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in full-stack web development, open-source projects, and learning new technologies.
 - 💞️ I’m looking to collaborate on web applications, open-source projects, and anything Web Applications Related
-- 📫 How to reach me: [pedapatisathwik@gmail.com](mailto:pedapatisathwik@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sathwik-pedapati/)
+- 📫 How to reach me: [sathwikpedapati02@gmail.com](mailto:sathwikpedapati02@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sathwik-pedapati/)
 - 😄 Pronouns: He/Him
 
 ---
@@ -10,7 +10,7 @@
 ## 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sathwik-pedapati/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:pedapatisathwik@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sathwikpedapati02@gmail.com)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&style=for-the-badge)](https://www.codechef.com/users/sathwi_5d0)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/pedapati_sathwik/)
 
@@ -36,7 +36,9 @@
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathwikpedapati&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sathwikpedapati&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikpedapati&layout=compact&theme=tokyonight)
 
 ---
 
