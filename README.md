@@ -11,8 +11,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sathwik-pedapati/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:pedapatisathwik@gmail.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&style=for-the-badge)](https://www.codechef.com/users/sathwi_02)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/Sathwi_pedapati/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&style=for-the-badge)](https://www.codechef.com/users/sathwi_5d0)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/pedapati_sathwik/)
 
 ---
 
@@ -32,18 +32,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
 </div>
 
-
 ---
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathwikpedapati&show_icons=true&theme=tokyonight)
-
-<!-- GitHub Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sathwikpedapati&theme=tokyonight)
-
-<!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikpedapati&layout=compact&theme=tokyonight)
 
 ---
