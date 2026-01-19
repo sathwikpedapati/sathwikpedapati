@@ -37,10 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sathwikpedapati&theme=tokyonight)
-
 ---
 
 <!---
