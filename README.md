@@ -35,9 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
 </div>
 
----
-
----
 
 <!---
 sathwikpedapati/sathwikpedapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
