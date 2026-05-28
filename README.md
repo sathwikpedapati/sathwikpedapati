@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in full-stack web development, open-source projects, and learning new technologies.
 - 💞️ I’m looking to collaborate on web applications, open-source projects, and anything Web Applications Related
-- 📫 How to reach me: [sathwikpedapati02@gmail.com](mailto:sathwikpedapati02@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sathwik-pedapati/)
+- 📫 How to reach me: [sathwikpedapati02@gmail.com](mailto:sathwikpedapati275@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sathwik-pedapati/)
 - 😄 Pronouns: He/Him
 
 ---
