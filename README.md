@@ -14,9 +14,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sathwikpedapati275@gmail.com)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&style=for-the-badge)](https://www.codechef.com/users/sathwi_5d0)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/pedapati_sathwik/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white&style=for-the-badge)](https://drive.google.com/file/d/1O77kAES9cfL-f9JQ0izBYHdE3APsEkcP/view?usp=drivesdk"
-          target="_blank")
-
+[![Resume](https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white&style=for-the-badge)](https://drive.google.com/file/d/1O77kAES9cfL-f9JQ0izBYHdE3APsEkcP/view?usp=drivesdk)
 
 ---
 
